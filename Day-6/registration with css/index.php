@@ -80,7 +80,7 @@ if($_POST)
                         </div>
 						
                         <div class="input-group">
-                            <input class="input--style-3 js-datepicker" type="date" placeholder="Birthdate" name="dob">
+                            <input class="input--style-3 js-datepicker" type="text" placeholder="Birthdate" name="dob">
                             <i class="zmdi zmdi-calendar-note input-icon js-btn-calendar"></i>
                         </div>
                         
